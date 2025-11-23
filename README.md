@@ -1,0 +1,1 @@
+Ce repository contient l’ensemble des travaux pratiques du module Blockchain. Chaque TP regroupe des exercices réalisés pour comprendre les concepts fondamentaux de la blockchain, comme le hashage, la création d’une mini-blockchain, les transactions signées, le Proof of Work et les smart contracts.
